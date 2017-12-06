@@ -1,0 +1,300 @@
+******** Game 0 ********
+Current Table Size: 977
+
+First 50 Entries:
+------------------
+committee x1
+zion x1
+stack x2
+accord x1
+fish x1
+minute x1
+win x1
+queue x2
+dog x1
+consider x2
+draw x1
+lose x1
+
+Score: 2504
+------------
+# of Finds: 45
+# of Probes: 0
+# of Items: 12
+
+Length Frequency: 
+-----------------
+3 letter words: x2
+4 letter words: x4
+5 letter words: x4
+6 letter words: x2
+8 letter words: x2
+9 letter words: x1
+
+
+
+******** Game 1 ********
+Current Table Size: 977
+
+First 50 Entries:
+------------------
+peoples x1
+the x4
+walk x1
+your x4
+best x1
+minor x1
+for x1
+and x3
+run x1
+any x1
+science x1
+across x1
+last x1
+poem x1
+years x1
+about x1
+computer x1
+door x1
+kitchen x1
+bit x1
+frightening x1
+school x1
+halloween x3
+take x2
+feet x1
+down x1
+sink x1
+stick x1
+swing x1
+her x1
+would x6
+cake x1
+thumb x1
+tall x6
+this x1
+have x1
+ride x1
+pen x1
+inch x6
+pool x1
+just x2
+worm x1
+beast x1
+get x1
+took x1
+thread x1
+from x1
+night x1
+wear x1
+gum x1
+
+Score: 11807
+------------
+# of Finds: 342
+# of Probes: 12
+# of Items: 72
+
+Length Frequency: 
+-----------------
+3 letter words: x29
+4 letter words: x48
+5 letter words: x21
+6 letter words: x4
+7 letter words: x4
+8 letter words: x3
+9 letter words: x3
+10 letter words: x1
+11 letter words: x1
+
+
+
+******** Game 2 ********
+Current Table Size: 977
+
+First 50 Entries:
+------------------
+here x2
+and x3
+like x9
+not x7
+that x3
+would x3
+anywhere x1
+eggs x3
+green x3
+you x2
+there x2
+ham x3
+pneumonoultramicroscopicsilicovolcanoconiosis x2
+them x5
+
+Score: 6575
+------------
+# of Finds: 144
+# of Probes: 0
+# of Items: 14
+
+Length Frequency: 
+-----------------
+3 letter words: x15
+4 letter words: x22
+5 letter words: x8
+8 letter words: x1
+45 letter words: x2
+
+
+
+******** Game 3 ********
+Current Table Size: 977
+
+First 50 Entries:
+------------------
+stock x1
+glory x1
+spirit x1
+pain x1
+bird x10
+the x124
+darkness x2
+rightly x1
+powers x1
+can x1
+gathers x1
+much x1
+language x1
+thy x7
+answer x1
+unhappy x1
+ghost x1
+farther x1
+your x1
+light x6
+chamber x11
+side x1
+whether x2
+unto x1
+read x1
+away x1
+prophet x4
+brighter x1
+here x5
+worst x1
+mortal x1
+without x1
+brain x2
+curious x1
+fast x1
+whose x5
+devil x2
+many x7
+displays x1
+river x1
+opened x1
+window x1
+little x2
+cloud x2
+being x1
+midnight x1
+home x1
+prince x1
+fantastic x1
+over x2
+
+Score: 110960
+------------
+# of Finds: 3621
+# of Probes: 720
+# of Items: 439
+
+Length Frequency: 
+-----------------
+3 letter words: x374
+4 letter words: x404
+5 letter words: x166
+6 letter words: x112
+7 letter words: x88
+8 letter words: x40
+9 letter words: x17
+10 letter words: x4
+12 letter words: x1
+28 letter words: x1
+
+
+
+******** Game 4 ********
+Current Table Size: 977
+
+First 50 Entries:
+------------------
+because x1
+what x1
+shoes x1
+the x10
+darkness x1
+laughed x7
+rain x1
+feels x1
+accident x1
+ill x2
+little x1
+after x2
+could x1
+broke x1
+over x1
+floppy x1
+soon x1
+mountains x1
+lasting x1
+until x3
+world x2
+silly x1
+tie x1
+worked x1
+trick x1
+finished x1
+for x1
+and x25
+whole x1
+any x1
+week x1
+simply x1
+everybody x1
+told x5
+bad x1
+loud x1
+fell x1
+hearts x1
+sloppy x1
+felt x2
+with x4
+cry x2
+big x1
+shook x1
+miles x1
+sad x1
+not x3
+who x1
+down x1
+sat x1
+
+Score: 24733
+------------
+# of Finds: 762
+# of Probes: 78
+# of Items: 133
+
+Length Frequency: 
+-----------------
+3 letter words: x90
+4 letter words: x73
+5 letter words: x46
+6 letter words: x11
+7 letter words: x19
+8 letter words: x12
+9 letter words: x3
+
+
+
+
+
